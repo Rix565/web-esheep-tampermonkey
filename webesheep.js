@@ -2,7 +2,7 @@
 // @name         web eSheep
 // @namespace    http://esheep.petrucci.ch/
 // @version      0.4
-// @description  Add a sheep on your Google and Bing page!
+// @description  Add a sheep on your all webpages !
 // @author       Adriano, modified by Rix56.
 // @include      *
 // @icon         http://esheep.petrucci.ch/favicon.gif
